@@ -823,3 +823,12 @@ there.
 /* Larger than tablet */
 /* Larger than desktop */
 /* Larger than Desktop HD */
+.hero section {
+  min-height: 100vh;
+  background: black;
+  color: white; }
+
+.hero .the-rocket {
+  min-height: 100px;
+  background: url("../images/the-rocket.png") no-repeat;
+  background-size: contain; }
