@@ -829,6 +829,16 @@ there.
   color: white; }
 
 .hero .the-rocket {
-  min-height: 100px;
+  min-height: 50px;
   background: url("../images/the-rocket.png") no-repeat;
+  background-size: contain; }
+
+.hero .social-links {
+  float: right; }
+  .hero .social-links li {
+    display: inline; }
+
+.info-blurb h2 {
+  min-height: 50px;
+  background: url("../images/ludicrous-rocket.png") no-repeat 50%;
   background-size: contain; }
