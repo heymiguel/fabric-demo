@@ -913,6 +913,7 @@ h1, h2, h3, h4, h5, h6, button {
   font-weight: bold; }
 
 .hero {
+  background: black;
   position: relative; }
   .hero h1, .hero h3 {
     margin: 0;
@@ -933,7 +934,6 @@ h1, h2, h3, h4, h5, h6, button {
     justify-content: center; }
   .hero section {
     min-height: 100vh;
-    background: black;
     color: white; }
   .hero .the-rocket {
     min-height: 50px;
