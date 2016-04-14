@@ -27,6 +27,7 @@
     "gulp-util": "^3.0.7",
     "gulp-wait": "0.0.2",
     "node-neat": "^1.7.2",
-    "skeleton-css": "^2.0.4"
+    "skeleton-css": "^2.0.4",
+    "smooth-scroll": "cferdinandi/smooth-scroll"
   }
 }
