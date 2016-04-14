@@ -406,7 +406,7 @@ th {
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 85%; }
+    width: 80%; }
   .column,
   .columns {
     margin-left: 2.5%; }
@@ -935,7 +935,8 @@ h1, h2, h3, h4, h5, h6, button {
     position: absolute;
     display: none;
     margin-top: 10px;
-    right: -25px;
+    right: -30px;
+    bottom: -30px;
     color: black;
     font-family: inherit;
     text-align: center; }
